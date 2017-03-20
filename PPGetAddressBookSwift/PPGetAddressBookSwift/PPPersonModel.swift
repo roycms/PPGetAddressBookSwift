@@ -28,7 +28,7 @@
 
 import UIKit
 
-public class PPPersonModel {
+public class PPPersonModel:NSObject {
     
     /// 联系人姓名
     public var name: String = ""
