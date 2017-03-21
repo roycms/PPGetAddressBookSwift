@@ -39,4 +39,7 @@ public class PPPersonModel:NSObject {
     /// 联系人头像
     public var headerImage: UIImage?
     
+    /// 是否选中
+    public var isSelect: Bool = false
+    
 }
